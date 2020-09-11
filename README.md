@@ -31,8 +31,13 @@ I wanted to end on Gertrude the pig, the star of the live Neuralink presentation
 
 ## References
 https://www.bbc.com/news/technology-53987919
+
 https://www.nidcd.nih.gov/health/cochlear-implants
+
 https://www.annualreviews.org/doi/abs/10.1146/annurev.bb.02.060173.001105
+
 https://news.berkeley.edu/2011/09/22/brain-movies/
+
 https://www.eurekalert.org/pub_releases/2020-09/tu-bio091020.php
+
 https://www.rand.org/blog/articles/2020/08/brain-computer-interfaces-are-coming-will-we-be-ready.html
