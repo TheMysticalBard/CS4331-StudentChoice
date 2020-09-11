@@ -41,3 +41,5 @@ https://news.berkeley.edu/2011/09/22/brain-movies/
 https://www.eurekalert.org/pub_releases/2020-09/tu-bio091020.php
 
 https://www.rand.org/blog/articles/2020/08/brain-computer-interfaces-are-coming-will-we-be-ready.html
+
+https://neuralink.com/
